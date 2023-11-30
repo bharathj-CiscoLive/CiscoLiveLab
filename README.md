@@ -1,4 +1,4 @@
-# CL23-Vegas
+# CiscoLiveLab
 Walk-in-Labs-Sample-Code
 
 Please install matplotlib and requests libraries if you have not done so.
